@@ -1,0 +1,58 @@
+/* =============================================================================
+   ORV Sortable Page CSS - Crash Override
+   ========================================================================== */
+
+.demo {
+    float: left;
+    width: 500px;
+    display: block;
+	clear:both;
+}   
+   
+      
+.demo ul li {
+    list-style: none;
+    padding: 8px;
+    border: 1px solid #ccc;
+    width: 200px;
+    background: #ddd;
+    margin: 5px 0;
+	line-height:20px;
+}
+
+input, textarea {
+    padding: 6px;
+}
+
+.add-items {
+    padding-left: 34px;
+}
+
+.add-items a.add-button {
+    margin-left: 15px;
+    padding: 6px;
+    background: #01448B;
+    color: #fff;
+    text-decoration: none;
+}
+
+.demo ul li a {
+    margin-left: 74px;
+    background: url('file:///G:/orv/2013/jquery-ui-sortable/images/gray_close_icon.png') 49px 3px no-repeat;
+    float: right;
+    width: 75px;
+    cursor: pointer;
+    text-decoration: none;
+    color: #000;
+	height:20px;
+}
+
+.demo ul li a:hover {
+    text-decoration: none;
+    color: #000;
+}
+
+#query-string-template-checkbox{
+	float:left;
+	display:block;
+}
