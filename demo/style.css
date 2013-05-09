@@ -38,7 +38,7 @@ input, textarea {
 
 .demo ul li a {
     margin-left: 74px;
-    background: url('file:///G:/orv/2013/jquery-ui-sortable/images/gray_close_icon.png') 49px 3px no-repeat;
+    background: url('gray_close_icon.png') 49px 3px no-repeat;
     float: right;
     width: 75px;
     cursor: pointer;
