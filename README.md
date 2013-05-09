@@ -7,5 +7,6 @@ I also added this functionality which keeps track of the current order of the li
 ```javascript
 $ddr("#sortable > ul").sortable('toArray');
 ```
+This uses some of the jQuery UI functionality for the drag and drop aspect. 
 
 
